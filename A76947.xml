@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honest citizen, or, faithful counsellor to the city of London.</title>
+            <author>A. J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76947</idno>
+            <idno type="STC">Wing B34</idno>
+            <idno type="STC">Thomason E438_5</idno>
+            <idno type="STC">ESTC R204756</idno>
+            <idno type="EEBO-CITATION">99864219</idno>
+            <idno type="PROQUEST">99864219</idno>
+            <idno type="VID">116443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116443)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E438[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honest citizen, or, faithful counsellor to the city of London.</title>
+                  <author>A. J. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Anonymous. By A.J.B., cf. Thomason.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: by "A.J.B", "May 3d 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:116443:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:116443:1" rendition="simple:additions"/>
+            <head>THE Honeſt Citizen, OR, Faithful Counſellor to the City of LONDON.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He City of <hi>London,</hi> before theſe Civil, or rather Uncivil Wars, was accounted richer then ei<g ref="char:EOLhyphen"/>ther <hi>Amſterdam, Paris, Venice,</hi> or any other City of Chriſtendom: How much it is drai<g ref="char:EOLhyphen"/>ned ſince theſe Wars, in glory, power, and wealth, I do leave it to all judicious men to judge. It had the glory and honour of Chriſtendom, for its faithfulneſſe to the Cauſe of God, and redeeming of the decay<g ref="char:EOLhyphen"/>ing Liberties of the Kingdom; yet retaining their loyalty to their King, and affection to the Kingdom, nay unto all three Kingdoms; of which, ample teſtimony hath been given. But how much it hath ſuffered by giving too much credit unto fair pretences of thoſe, who have not onely deceived it, but alſo Parliament and Kingdom; nay, have enſlaved all three King<g ref="char:EOLhyphen"/>doms in a perpetual War, if not by the providence of Al<g ref="char:EOLhyphen"/>mighty God timely prevented, and a ſpeedy reſolution both of
+<pb n="2" facs="tcp:116443:2"/> both of Parliament and City to reſume their virgine Princi<g ref="char:EOLhyphen"/>ples; all being acted by the Grandees, under pretence of Re<g ref="char:EOLhyphen"/>ligion; which indeed is not onely now, but long ago diſco<g ref="char:EOLhyphen"/>vered to be nothing elſe but Pride, and Covetouſneſſe, to ſub<g ref="char:EOLhyphen"/>vert the Fundamental Government of the Kingdom, and bring all the wealth and power into a few mens hands, which will make a perpetual War between <hi>England</hi> and <hi>Scotland,</hi> and bring all Nations into this Kingdom upon the King's in<g ref="char:EOLhyphen"/>tereſt, and his Poſterity; leave <hi>Ireland</hi> to it ſelf, whereby the Pope and Spaniſh Councel will there prevail, the old native Iriſh naturally loving both Pope and Spaniard; which made the Lord <hi>Inchequin</hi> draw unto him the Lord <hi>Taaf</hi> and his par<g ref="char:EOLhyphen"/>ty (being of the Britiſh Iriſh) from the <hi>Oneals</hi> and <hi>mac Carta</hi>'s and the reſt, who are for the Pope and Spaniard<g ref="char:punc">▪</g> one<g ref="char:EOLhyphen"/>ly. Theſe Grandees will bring confuſion upon all three King<g ref="char:EOLhyphen"/>doms, and deſtroy the whole Proteſtant Cauſe of Chriſten<g ref="char:EOLhyphen"/>dom. For prevention of this, <hi>London</hi> may have a great ſhare in the deliverance of this Kingdom, if it will ſtand ſtoutly to its firſt Principles, and intended Reformation, and not be cheated out of its Religion, Allegiance, Power, and Liberty. <hi>London</hi> hath done well of late; the great providence of God having diſcovered many plots for its ruine, as well as againſt the King, Monarchy, the three Kingdoms, and ſubverſion of the Fundamental Laws of the Land, which all ſubjects are ſworn unto, and bound to obſerve, all being hatched by the traiterous Grandees. <hi>London</hi> being now the on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly place that muſt be ſubdued by them, having already ſubdued both Par<g ref="char:EOLhyphen"/>liament and Kingdom to their traiterous commands: And if the Scots enter not the Kingdom, which undoubtedly they will do, and it may be ſooner then we think for, <hi>London</hi> muſt be brought to better obedience, or laid in the duſt, as <hi>Cromwel</hi> hath often ſaid: an act ſo bad, as to be abhorred in any traiter<g ref="char:EOLhyphen"/>ous thoughts, unleſſe in ſuch great ones as <hi>Cromwel</hi> and his complices are. But if <hi>London</hi> doth no better, they muſt drink of the dregs of their fury. The Grandees ſeeing there is no reconciliation with them, therefore they have changed much Silver into Gold, and ſent great ſtore beyond the Seas againſt
+<pb n="3" facs="tcp:116443:2"/> their ſlight, if their pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts do not take; having no hopes to reconcile with the King, who will be tampered with no more, nor cheated by them. No hopes to cheat or buy out the Scots; no hopes to reconcile with the Parliament if once it cometh again to its virgine conſtitution; no hopes to be re<g ref="char:EOLhyphen"/>conciled to the Kingdom, having laid ſuch unjuſt and forced Impoſitions upon the ſubjects thereof, eſpecially in time of Peace, when no enemy appear th, unleſſe ſuch as oppoſe their treaſon and unjuſt commands; the Army being voted to diſ<g ref="char:EOLhyphen"/>band in time of a free Parliament: no hopes to have any re<g ref="char:EOLhyphen"/>conciliation for the Proteſtant blood they have cauſed to be ſhed in obſtructing <hi>Irelands</hi> relief, and the diſtreſſed members of Chriſt in that Kingdom: no hopes of reconciliation with the Levellers, <hi>Cromwel</hi> having ſo often changed his principles. The Grandees knowing they cannot fight with the Scots, and leave <hi>London</hi> on their backs, having for this end increaſed their Army to ſuch a number, that the new Eſtabliſhment will not maintain them; nay, in ſtead of Six and twenty thouſand which they enforced the Houſe to vote, have made them fifty thouſand: therefore they muſt come up to <hi>London</hi> with ſuch a Plot as the laſt was, to raiſe a million of money, or elſe plunder them: Alſo ſeeing themſelves apparently ruined upon the coming in of the Scots, if they leave <hi>London</hi> in its freedom behinde them, the Kingdom riſing about them; and if once they receive a foil, they know there is no recruting again; therefore, as <hi>Cromwel</hi> ſaid, <hi>London muſt be brought to better obedience, or laid in the duſt.</hi> Therefore honourable, valiant, and dear City of <hi>London,</hi> be not cheated: Will you fight your ſelves into Slavery, and not ſtand for your Freedom? You relieved <hi>Clouceſter</hi> under the Command of that moſt excellent and valiant General the Earl of <hi>Eſſex,</hi> whoſe memory<g ref="char:punc">▪</g> will be ever precious to the Kingdom; and fought with the Kings Royal Army, when not onely yours, but the whole Kingdoms Liberty depended upon that valiant, faithful, and never to be forgotten Commander, Major<g ref="char:punc">▪</g> General <hi>Maſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y;</hi> and will you not maintain your ſelves againſt theſe traitors to God, the King, and three Kingdoms, which are far worſe then the former
+<pb n="4" facs="tcp:116443:3"/> Spaniſh faction that abuſed the King, and made him ſerve their luſts, pride and ambition. You can never have Peace by yeelding unto them; their reconciliation is onely to enſlave you, and bring you into a perpetual War, deſtroying Religi<g ref="char:EOLhyphen"/>on, Laws, and Government, and bring in all Chriſtendom upon you; and in this very time if you ſtand not to it both wiſely and ſtoutly, the Houſe being full, having made an Or<g ref="char:EOLhyphen"/>der for their Members not to depart for fourteen or fifteen days; and before that time is expired, you may hear of ſome news may affright theſe Grandees, and traitors to City and Kingdom. Remember what that ſhitten fool <hi>Atkins</hi> ſaid in the Common Councel of <hi>London</hi> on munday night laſt. En<g ref="char:EOLhyphen"/>quire what news the Maior of <hi>Barwick</hi> ſent to the Houſe, deſi<g ref="char:EOLhyphen"/>ring their direction therein: Enquire alſo what that bloody villain Sir <hi>Arthur Haſlerigg</hi> ſent to the Houſe, or Committee at <hi>Derby</hi>-houſe, from <hi>Newcaſtle.</hi> All the Kingdom is ready to help you, for ſetling of Religion, Laws, and juſt Liberties. You have had ſome thoughts of Major-General <hi>Skippon</hi> to be your Major General; he will meerly cheat and gull you, and bring in a ſecond <hi>Trojan</hi>-horſe amongſt you, as he was acceſ<g ref="char:EOLhyphen"/>ſary in bringing in the former, and marching thorow your City in triumph with the Grandees and Rebels of the Army; who deceived not onely the Kingdom, but their own Souldi<g ref="char:EOLhyphen"/>ers, being willing to disband, and willing to obey the Parlia<g ref="char:EOLhyphen"/>ment that ſet them up, but that <hi>Crumwel</hi> and his complices ſeduced them. But I hope in God thoſe honeſt Chriſtian ſouls, I mean the Souldiers, will no more be deceived by their traiterous Commanders, who are traitors in the higheſt form; when the Souldiers may have an Act of Oblivion for what is paſt, and all their Arreres paid and enſured them by the Parlia<g ref="char:EOLhyphen"/>ment, City, and Kingdom; as hath been formerly offered them, and will be willingly made good unto them upon their diſ<g ref="char:EOLhyphen"/>banding, ſetling of, Peace and all juſt Intereſts, and relieving of <hi>Ireland</hi> with ſuch as will go, and thoſe that have no minde to that ſervice, may have their Arreres paid and enſured them, to follow their Trades and Callings. <hi>Skippon</hi> is the very picture of <hi>Synon,</hi> who brought in the Grecian horſe to <hi>Troy,</hi>
+               <pb n="5" facs="tcp:116443:3"/> cauſing the <hi>Trojans</hi> to break down part of their walls, that the horſe might enter, ſaying, <hi>Synon, who I, the gods do know that Synon cannot lie. Skippon</hi> hath ſaid many times, that <hi>Crom<g ref="char:EOLhyphen"/>wel</hi>'s ways are not the ways of God. When Adjutant-Gene<g ref="char:EOLhyphen"/>ral <hi>Grey</hi> was queſtioned for his life, knowing his cauſe to be good and honeſt, onely for reading and countenancing the Ci<g ref="char:EOLhyphen"/>ty-Remonſtrance. <hi>Skippon</hi> hath often ſaid, that any man, let him be never ſo deſerving, or unblameable in his life, unleſſe that he complyed with <hi>Cromwel</hi> and his faction, he muſt be blaſted in his reputation, and expelled the Army. His appear<g ref="char:EOLhyphen"/>ance in <hi>Gray</hi>'s buſineſſe (knowing the innocency of his cauſe) was onely becauſe he hoped the Parliament would have been able to make good their thanks they gave the City for their Remonſtrance; for which continuing a little while in that opinion (as he is very ſubject to change) he was ſequeſtred the Army, but not expelled, becauſe <hi>Cromwel</hi> thought that would too much diſpleaſe the City, being in a good and couragious temper at that time. But <hi>Skippon</hi> ſeeing <hi>Cromwel</hi>'s ſide to be moſt profitable, collogued again with him, and was reſtored to his many gainful places in the Army, whereby he hath got many thouſands out of the ruines of the Kingdom, having three or four places in the ſaid Army, and enjoyed them ever ſince the Army ſhould have been disbanded by order of free Parliament. But ſtill the City having a good opinion of him, deſired the Houſe that he and that faithful and valiant Com<g ref="char:EOLhyphen"/>mander, who hath not a whit ſtarted from his honeſt princi<g ref="char:EOLhyphen"/>ples neither in fair or foul weather, I mean Major-General <hi>Maſſey,</hi> to be choſen for <hi>Ireland,</hi> which was done according<g ref="char:EOLhyphen"/>ly; <hi>Maſſey</hi> telling <hi>Skippon</hi> ſeveral times, that he would be as obſervant of him and his commands, for the publike good, as any Commander or Officer in the Army ſhould be. Where<g ref="char:EOLhyphen"/>upon <hi>Skippon</hi> and <hi>Maſſey</hi> were ſent down to the Army with the Committee of Parliament, to draw it off for <hi>Ireland;</hi> wherein <hi>Maſſey</hi> did moſt faithfully, but <hi>Skippon</hi> moſt coldly delivered the Commands of Parliament, and did not heartily preſſe the Commanders and Souldiers to the obedience of Par<g ref="char:EOLhyphen"/>liament, who ſet them up; but upon his return and account
+<pb n="6" facs="tcp:116443:4"/> to the Houſe, ſeemed to comply with <hi>Cromwels</hi> deſigne in the buſineſſe, on purpoſe to keep the Army up, to enſlave the King<g ref="char:EOLhyphen"/>dom, having got the Scots by fair and falſe pretences to return into <hi>Scotland;</hi> who were willing to have both Armies diſ<g ref="char:EOLhyphen"/>banded together, whereby the charge of both Kingdoms might be taken off, and a juſt Peace ſetled between King and People, as you ſee they ſtill maintain it in their Papers and Deſires de<g ref="char:EOLhyphen"/>livered unto the Parliament, ſtanding ſtiffly for a perſonal Treaty with the King. And now <hi>Skippon</hi> is <hi>Cromwe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s ſoul and body, until a ſtronger ſide appeareth, having declared him<g ref="char:EOLhyphen"/>ſelf that he will fight againſt the Scots, if they come againſt the Parliament and Army (as our new Government is called) for which laſt week they gave him a thouſand pounds <hi>per an<g ref="char:EOLhyphen"/>num;</hi> the Scots being enforced to come into <hi>England</hi> again, to redeem Religion, King, Parliament and Kingdom from the Lord <hi>Say's, Cromwel</hi>'s and their accomplices cruelties, who would ſubvert Religion, Monarchy, Laws, and our juſt and well-eſtabliſhed Government, onely for their own pride and covetouſneſſe. Now if you will have <hi>Skippon,</hi> take him; you have a good morſel of him. Major-General <hi>Browne</hi> is your fitteſt man, I ſuppoſe a Citizen born, but I am ſure a Citizen bred, and one that loveth the City heartily, and that in conſci<g ref="char:EOLhyphen"/>ence too: he is faithful, able, and valiant, of a dexterous body and ſpirit, and one that loveth Government and Order, and not with too much ceremony neither; one that hath given a ſufficient teſtimony of his valour and parts, and one that did not indent with you as <hi>Skippon</hi> did when he was made Major-General of the City, who would have a great ſalary, and a great houſe to live in; a good houſe would not ſerve his turn: But Major-General <hi>Browne</hi> went out freely, of his own ac<g ref="char:EOLhyphen"/>cord, and at his own charge, to ſuppreſſe the riſing in <hi>Kent</hi> and other places: no man in the City ſo fit as he, and one that hath done more perſonal ſervice for the Publike ſince theſe unhap<g ref="char:EOLhyphen"/>pie Wars then Major-General <hi>Skippon.</hi> Colonel <hi>Weſt</hi> is the fitteſt man to be Lieutenant of the Tower, where now that peeviſh Sectary Lieutenant-Colonel <hi>Tichburn</hi> is, <hi>alias Crom<g ref="char:EOLhyphen"/>wel</hi>'s ſirreverence, or a n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w confiding light; I will not pro<g ref="char:EOLhyphen"/>fane
+<pb n="7" facs="tcp:116443:4"/> the word Saint: I will not call him Colonel, his Com<g ref="char:EOLhyphen"/>miſſion being illegal, and he fitter for a warm bed then to com<g ref="char:EOLhyphen"/>mand a Regiment or Citadel; one that not above a month before he was choſen Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utenant of the Tower, held an opi<g ref="char:EOLhyphen"/>nion that it was not lawful for men to fight or kill men, think<g ref="char:EOLhyphen"/>ing that fighting would be in faſhion again. And indeed, when he was firſt made Lieutenant-Colonel of the Auxiliaries in <hi>London,</hi> if he durſt have marched down onely for a Guard of three or four Pieces of Battery to <hi>Bazing</hi> houſe before it was fortified, he had ſaved many a thouſand mens lives: but he loved then nothing tending to fighting, and therefore he diſcouraged his Souldiers, and took a journey himſelf under a colour to <hi>Brainford,</hi> and then came home in triumph, that he might pray that the walls of <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zing</hi> houſe might fall down like the walls of <hi>Jericho.</hi> And truely, until the w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lls fall down that ſupport this milk-ſop, no Merchant either at home or abroad will truſt his Bullion within the Tower-walls; ſo that the Mint-anvils grow quite ruſty, trade being never ſo decayed, as ſince he came into his preaching Government. But Colonel <hi>West</hi> is faithful, honeſt and valiant, and one that ſtood as well to his Regiment, as he hath done ſince to his Principles: witneſſe <hi>Glouceſter</hi>-Expedition, where if the <hi>Newbery</hi>-ground could ſpeak, it would ſay his body was turn<g ref="char:EOLhyphen"/>ed into a rock in the face of his enemy: upon whoſe fidelity both Merchants at home and abroad will venture their trea<g ref="char:EOLhyphen"/>ſure. Therefore, moſt famous, valiant, and dear City, for the Cauſe of God, yours and the three Kingdoms Cauſe, nay the whole Proteſtant Cauſe of Chriſtendom, be not gulled nor cheated; truſt nothing that cometh from the Lord <hi>Say, Crom<g ref="char:EOLhyphen"/>wel,</hi> or their complices; they will onely deceive and enſlave you: and knowing themſelves loſt men, their ills are ſo great, they cannot be ſafe without doing greater. They are loſt with the King, with <hi>England, Scotland, Ireland,</hi> nay all Chriſten<g ref="char:EOLhyphen"/>dom. Never truſt counſeit <hi>Skippon,</hi> nor apoſtate <hi>Marſhal,</hi> he is <hi>Say</hi>'s Factor: know your faithful men and Commanders: keep your Arms, ſecure your eſtates, when the whole ſhip is ſinking: let not every man look to his own cabbin; in pre<g ref="char:EOLhyphen"/>ſerving
+<pb n="8" facs="tcp:116443:5"/> the ſhip, you preſerve your cabbins: ſuppreſſe unlaw<g ref="char:EOLhyphen"/>ful tumults your ſelves; defend your ſelves againſt all traitors and rebels whatſoever: be faithful unto God, the King, the Parliament, the three Kingdoms, and the Proteſtant Cauſe of Chriſtendom: down with the Grandees that enſlave King and Parliament: ſtand to your Allegiance, Proteſtations, So<g ref="char:EOLhyphen"/>lemn League and Covenant: be wiſe and valiant; it will be but a bruſh, you will afterwards have power of conſcience, comfort and renown for it: the raiſing of your ſpirits in a juſt and reſolved way, maketh your enemies fall. The law of Na<g ref="char:EOLhyphen"/>ture teacheth you to defend your ſelves: you have power e<g ref="char:EOLhyphen"/>nough among your ſelves, if you will uſe it. If your ſilly Maior will not ſtand for the ſafety of the City, he is a traitor: your Sheriffs have the <hi>Poſſe Comitatus</hi> by an eſtabliſhed Law. The way to make a juſt Peace, is to have power, and equally to diſpute the juſtneſſe of your Cauſe againſt Rebels, elſe your ene<g ref="char:EOLhyphen"/>mies will break both Laws, Conſcience, and all juſt Treaties. Truſt none of your new lights, as <hi>Fowk, Gibbs, Wollaſton, An<g ref="char:EOLhyphen"/>drews, Eſtwick, Noel, Player,</hi> and the like; they are onely new cheats. I ſay again, Be wiſe and valiant, and the Lord of heaven and earth beſtow his bleſſings from heaven upon your courage and reſolution, whereby a juſt and well-grounded Peace may be ſetled. And ſo I heartily pray for you, and bid you farewel.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
